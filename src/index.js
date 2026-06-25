@@ -14,7 +14,7 @@ import {
 
 const server = new McpServer({
   name: "ccgo-imager",
-  version: "0.2.7",
+  version: "0.2.8",
 });
 
 function resultContent(result) {

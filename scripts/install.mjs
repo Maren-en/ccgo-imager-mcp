@@ -12,7 +12,7 @@ const SERVER_ENTRY = path.join(PACKAGE_ROOT, "src", "index.js");
 const DEFAULT_BASE_URL = "https://www.ccgoai.com/v1";
 const DEFAULT_OUTPUT_DIR = path.join(os.homedir(), "Pictures", "ccgo-imager-output");
 const SERVER_NAME = "ccgo-imager";
-const VERSION = "0.2.7";
+const VERSION = "0.2.8";
 const REQUIRED_TOOLS = [
   "ccgo_image_generate",
   "ccgo_image_edit",

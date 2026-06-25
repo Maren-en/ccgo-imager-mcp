@@ -1,5 +1,12 @@
 # Changelog
 
+## 0.2.8
+
+- Improved README wording for normal users.
+- Clarified that 15 minutes is the maximum async-task wait time, not a fixed wait.
+- Moved command-line and technical details behind simpler user-facing sections.
+- Added Chinese security guidance.
+
 ## 0.2.7
 
 - Removed `OPENAI_API_KEY` and `OPENAI_BASE_URL` fallback to prevent accidental cross-service key use.
@@ -21,4 +28,3 @@
 ## 0.2.4
 
 - Added async image task polling and binary result download support.
-
